@@ -11,6 +11,7 @@ A sleek and responsive Contact Us form built with HTML and CSS. The form provide
 - **Customizable:** Easily modify the form fields, styling, and layout to suit your needs.
 
 ## Preview
+![contact us preview](https://github.com/user-attachments/assets/19f717cc-3ec7-4364-827a-3bec36f951e0)
 
 ## Project Structure
 ```bash
